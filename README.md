@@ -2,16 +2,15 @@
 
 ### Software Engineering | MERN Stack Developer  
 
-
+---
 
 ## 🚀 About Me
 
 I am a **Software Engineering** graduate from **Mutah University**. I specialize in building full-stack web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Currently, I am focused on strengthening my backend development and database management skills to build scalable, real-world applications.
 
-I am passionate about writing clean, maintainable code and have experience developing everything from **authentication systems** and **RESTful APIs** to responsive front-end interfaces.
+I am passionate about writing clean, maintainable code and have experience developing everything from **authentication systems** and **RESTful APIs** to responsive front-end interfaces.---
 
 ---
-
 ## 🛠️ Technical Skills
 
 ### 💻 Front-End
@@ -36,40 +35,27 @@ I am passionate about writing clean, maintainable code and have experience devel
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Artificial Intelligence
-- ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-- ![image](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-
-
----
-
-## Featured Project
-
-### Student Management System (MERN Stack)
-
-A full-stack web application designed to manage student records.
-
-Key Features:
-- Secure authentication system
-- Role-based access control
-- CRUD operations
-- REST API integration
-- Responsive UI
-- Structured project architecture
-
-GitHub Repository:
-https://github.com/your-username/student-management-system
+### 🤖 Artificial Intelligence
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
-## Current Focus
+## 📜 Certifications
 
-- Advanced React patterns
-- Code architecture and scalability
-- Performance optimization
-- Clean project structure design
+* **AWS Certified AI Practitioner** - Domain 1 & 2 (2025).
+* **CCNA (Cisco Certified Network Associate)** - Pioneers Academy.
+* **Security+** - Pioneers Academy.
+* **Introduction to Databases** - Makani (2024).
 
 ---
+<!-- 
+## 🌟 Featured Project
+
+---
+
+-->
+
 
 ## 🌐 Connect with Me
 
